@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @S1gil0
 - 👀 I’m interested in AI integration and automation
 - 🌱 I’m currently learning anything interesting
-- 💞️ I’m looking to collaborate on whatever I can
 - 📫 How to reach me: https://discord.gg/g4jVJMXBvu
 
 <!---
