@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @S1gil0
 - 👀 I’m interested in AI integration and automation
 - 🌱 I’m currently learning anything interesting
-- 📫 How to reach me: [https://discord.gg/g4jVJMXBvu](https://discord.gg/latamgameservers)
+- 📫 How to reach me: [https://discord.gg/latamgameservers](https://discord.gg/latamgameservers)
 
 <!---
 S1gil0/S1gil0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
